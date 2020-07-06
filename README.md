@@ -66,6 +66,6 @@ npm run serve
 ``` 
 ###  其他说明
 本项目接入了一个后端用户权限项目，采用Django-Rest-framework
-[项目地址]()
+[项目地址](https://github.com/huyu456/douban)
 
 
