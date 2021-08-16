@@ -4,7 +4,7 @@ vue2 + vuex + vue-router + cube-ui
 ###  项目介绍  
 整合豆瓣官方提供的api接口，对其内容进行展示  
 [豆瓣电影API文档](https://www.doubanapi.com/movie.html)  
-[项目演示地址](已关闭)     
+项目演示地址(已关闭)  
 在此感谢[buptsky](https://github.com/buptsky/vue-douban-movie) 的项目参考  
 ### 项目运行
 clone项目到本地  
